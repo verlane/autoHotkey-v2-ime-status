@@ -1,10 +1,13 @@
 # Summary
 
 IME.ahk ( eamat http://www6.atwiki.jp/eamat/ ) for AutoHotkey V2
+
 For Windows 11 old Microsoft IME
 
 You can get the IME status for Japanese and Korean keyboard input.
+
 일본어 및 한국어 키보드 입력에 대한 IME 상태를 확인할 수 있습니다.
+
 日本語と韓国語のキーボード入力のIMEステータスを確認できます。
 
 # Code
